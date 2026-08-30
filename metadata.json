@@ -1,0 +1,6 @@
+{
+  "name": "Shadowtech MTProto",
+  "description": "Telegram-powered cloud storage vault and media gallery with instant file preview and offline support",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
